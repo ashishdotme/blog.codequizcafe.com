@@ -10,14 +10,11 @@ disqusShortname = ""
     page = "/:title/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = ""
+    name = "Blog Home"
+    url = "/"
 [[menu.main]]
     name = "Twitter"
-    url = ""
+    url = "https://twitter.com/codequizcafe"
 
 [params]
     description = "Challenge yourself to our quizzes and prepare yourself for your future"
