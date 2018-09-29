@@ -1,4 +1,4 @@
-baseurl = "https://blog.codequizcafe.com"
+baseurl = "https://blog.codequizcafe.com/"
 languageCode = "en-us"
 title = "Blog - Code Quiz Cafe"
 theme = "hugo-lithium-theme"
