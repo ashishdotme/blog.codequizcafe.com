@@ -1,6 +1,6 @@
-baseurl = "https://ashish.me"
+baseurl = "https://blog.codequizcafe.com"
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Blog - Code Quiz Cafe"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,7 @@ disqusShortname = ""
     url = ""
 
 [params]
-    description = ""
+    description = "Challenge yourself to our quizzes and prepare yourself for your future"
 
     [params.logo]
     url = "logo.png"
